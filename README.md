@@ -15,6 +15,8 @@ Control y visualización de actores: cliente y anfitrión.
 ## Herramientas Utilizadas
 GitHub y Git (Línea de comandos): Control de versiones y alojamiento del repositorio remoto.
 Claude Design: Modelado y diseño del prototipo de interfaz de usuario.
+Figma: En diseño de interfaz basada en la nube, colaboración en vivo y prototipado en interactivo.
+Draw.io: Elaboración de diagramas UML, casos de uso y de clase.
 ## Integrantes y Roles
 Miguel Cornejo: Responsable del repositorio, arquitectura backend y de la documentación.
 Erik Reyes: Responsable del prototipo, diseño de interfaces y desarrollo frontend.
